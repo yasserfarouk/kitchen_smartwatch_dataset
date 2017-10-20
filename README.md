@@ -21,20 +21,20 @@ Past Usage:
 Relevant Information:
 -------------------- 
 **Number of Instances**: 1580070
+
 **Number of Attributes**: 12 
+
 **Missing Attribute Values**: None
 
 Attribute Information:
 ----------------------
-      - *For left arm (cooking-clean-interpolated-left.csv)*:
+      - *For left arm (cooking-clean-interpolated-left.csv)* :
           subject (int): Subject from 0 to 9
           class (int): activity (20 different codes). For details on these classes see (class_stats_interpolated-left.csv)
           timestep (int): Time in ms 
           x, y, z (float): acceleration
-      - *For right arm (cooking-clean-interpolated-right.csv)*:
+      - *For right arm (cooking-clean-interpolated-right.csv)* :
           subject (int): Subject from 0 to 9
           class (int): activity (28 different codes). For details on these classes see (class_stats_interpolated-right.csv)
           timestep (int): Time in ms 
           x, y, z (float): acceleration
-
-
